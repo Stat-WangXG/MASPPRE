@@ -1,1 +1,1 @@
-# MASPPRE
+This package offers the weight estimators of model averaging and the prediction of survival probability of individual given the time point for right censoring data based on the partly linear additive Cox model, where the weight selection criteria employ the inverse probability of censoring weights and the non-parametric parts of this model are approximated by B-splines method.
